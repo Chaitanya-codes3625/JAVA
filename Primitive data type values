@@ -1,0 +1,28 @@
+public class file
+{       
+	static byte Byte;
+	static long Long;
+	static boolean Boolean;
+	static int Int;
+	static float Float;
+	static double Double;
+	static short Short;
+	static char Char;
+public static void main(String[] args)
+	
+	 
+	{
+		System.out.println("Primitive data types");
+		System.out.println("char;"+Char);
+		System.out.println("byte;"+Byte);
+		System.out.println("long;"+Long);
+		System.out.println("Short;"+Short);
+		System.out.println("boolean;"+Boolean);
+		System.out.println("double;"+Double);
+		System.out.println("int;"+Int);
+		System.out.println("float;"+Float);
+		
+	}
+
+
+}
